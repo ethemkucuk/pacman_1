@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\C# Örneklerim\PacMan_1\bin\Debug\PacMan_1.exe.config
+C:\Users\Monster\Desktop\C# Örneklerim\PacMan_1\bin\Debug\PacMan_1.exe
+C:\Users\Monster\Desktop\C# Örneklerim\PacMan_1\bin\Debug\PacMan_1.pdb
+C:\Users\Monster\Desktop\C# Örneklerim\PacMan_1\obj\Debug\PacMan_1.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Örneklerim\PacMan_1\obj\Debug\PacMan_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Örneklerim\PacMan_1\obj\Debug\PacMan_1.Form1.resources
+C:\Users\Monster\Desktop\C# Örneklerim\PacMan_1\obj\Debug\PacMan_1.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Örneklerim\PacMan_1\obj\Debug\PacMan_1.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Örneklerim\PacMan_1\obj\Debug\PacMan_1.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Örneklerim\PacMan_1\obj\Debug\PacMan_1.exe
+C:\Users\Monster\Desktop\C# Örneklerim\PacMan_1\obj\Debug\PacMan_1.pdb
